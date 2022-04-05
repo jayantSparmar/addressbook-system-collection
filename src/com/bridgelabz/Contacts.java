@@ -1,4 +1,5 @@
 package com.bridgelabz;
+
 /**
  * create a class name as Contacts
  */
